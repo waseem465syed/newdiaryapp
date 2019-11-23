@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="diary_app_open_content_using_menu">Diary App (Open content using Menu)</string>
+</resources>
